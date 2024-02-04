@@ -1,6 +1,6 @@
 
 # Asynchronous API Request 
-How to make a request from JS in different ways to catch data from a PHP service. This code contains all types of requests. (Code that does not correspond to the current example will be commented). You can find all the commented examples in different repos:
+How to make a request from JS in different ways to catch data from a PHP service. This code contains several types of requests. (Code that does not correspond to the current example is commented). You can find all the commented-code examples in different repos:
 - Async-API-request-ajax-JSON
 - Async-API-request-ajax-Querystring
 - Async-API-request-fetch-JSON
