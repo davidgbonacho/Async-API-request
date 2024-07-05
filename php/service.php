@@ -1,9 +1,24 @@
 <?php
 
 /**
- * PHP as a service - retreiving data from JS
- * @author Tizedit - David G. bonacho
- */
+ * PHP as a service
+ *
+ *
+ * PHP as a service is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * PHP as a service is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with PHP as a service. If not, see <http://www.gnu.org/licenses/>.
+ * 
+ * @author David G. Bonacho - Tizedit - 2024
+ */ 
 
 // retreive params (if they come as JSON)
 //$json_data = file_get_contents("php://input");
