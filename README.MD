@@ -23,6 +23,9 @@ By clicking on the `call` button, a fetch with params (or without it) for the PH
 - img/logo.svg: only important images are here
 
 
+[Text in Spanish here](README_ES.MD)
+
+
 ![](img/logo.svg)
 ---
 `título:` Asynchronous API Requests [`SimPIL`] 01/26/24\
