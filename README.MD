@@ -28,6 +28,6 @@ By clicking on the `call` button, a fetch with params (or without it) for the PH
 
 ![](img/logo.svg)
 ---
-`título:` Asynchronous API Requests [`SimPIL`] 01/26/24\
+`título:` Asynchronous API Requests 01/26/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
 
