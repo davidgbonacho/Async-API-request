@@ -22,6 +22,8 @@ Al hacer clic en el botón `call`, se realizará una petición fetch con paráme
 - css/style.css: una hoja de estilo CSS ultra-simple
 - img/logo.svg: solo las imágenes importantes están aquí
 
+[Text in English here](README.MD)
+
 
 ![](img/logo.svg)
 ---
