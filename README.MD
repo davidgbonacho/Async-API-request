@@ -9,7 +9,7 @@ How to make a request from JS in different ways to catch data from a PHP service
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
 ## Install
-Simply clone the repo and run the code from Apache server. Load index.html. 
+Simply clone the repo and run the code from Apache server. Load index.html.
 
 ## Perform
 By clicking on the `call` button, a fetch with params (or without it) for the PHP service will be carried out and will load a JSON.
